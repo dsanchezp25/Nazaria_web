@@ -1,0 +1,207 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --color-primary: #45148A;
+  --color-on-primary: #FFFFFF;
+  --color-primary-container: #5F2CA6;
+  --color-on-primary-container: #F3DAFF;
+  --color-primary-light: #6B2FBA;
+  --color-primary-dark: #2D0063;
+  --color-secondary: #B4A0CC;
+  --color-secondary-container: #5F2CA6;
+  --color-tertiary: #7D5260;
+  --color-error: #FF6B6B;
+  --color-background: #45148A;
+  --color-surface: #3D1178;
+  --color-surface-variant: #5F2CA6;
+  --color-on-background: #FFFFFF;
+  --color-on-surface: #FFFFFF;
+  --color-on-surface-variant: #D4C4F0;
+  --color-outline: #9B7EC5;
+  --color-subtle: #BFAFD9;
+  --color-border: #7B52AB;
+
+  --color-macarena: #4CAF50;
+  --color-cartuja: #00BCD4;
+  --color-triana: #FF9800;
+  --color-nervion: #3F51B5;
+  --color-porvenir: #E91E63;
+  --color-centro: #9E9E9E;
+  --color-accent-gold: #D4A017;
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Material Symbols Outlined';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://fonts.gstatic.com/s/materialsymbolsoutlined/v262/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOejbd5zrDAt.woff2') format('woff2');
+    font-display: block;
+  }
+
+  :root {
+    --color-primary: #45148A;
+    --color-on-primary: #FFFFFF;
+    --color-primary-container: #5F2CA6;
+    --color-on-primary-container: #F3DAFF;
+    --color-primary-light: #6B2FBA;
+    --color-primary-dark: #2D0063;
+    --color-secondary: #B4A0CC;
+    --color-secondary-container: #5F2CA6;
+    --color-error: #FF6B6B;
+    --color-background: #45148A;
+    --color-surface: #3D1178;
+    --color-surface-variant: #5F2CA6;
+    --color-on-background: #FFFFFF;
+    --color-on-surface: #FFFFFF;
+    --color-on-surface-variant: #D4C4F0;
+    --color-outline: #9B7EC5;
+    --color-subtle: #BFAFD9;
+    --color-border: #7B52AB;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --color-primary: #6B2FBA;
+      --color-primary-container: #5F2CA6;
+      --color-on-primary-container: #F3DAFF;
+      --color-background: #2D0063;
+      --color-surface: #3D1178;
+      --color-surface-variant: #5F2CA6;
+      --color-on-background: #FFFFFF;
+      --color-on-surface: #FFFFFF;
+      --color-on-surface-variant: #D4C4F0;
+      --color-outline: #9B7EC5;
+      --color-subtle: #BFAFD9;
+      --color-border: #7B52AB;
+    }
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-body);
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--color-on-background);
+    background-color: var(--color-background);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+}
+
+/* ===== Keyframe Animations ===== */
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-12px); }
+}
+
+@keyframes pulse-dot {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.8); opacity: 0.4; }
+}
+
+@keyframes draw-route {
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(32px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* ===== Scroll Reveal Utilities ===== */
+
+.reveal {
+  opacity: 0;
+  transform: translateY(32px);
+  transition: opacity 0.7s cubic-bezier(0.22, 0.61, 0.36, 1), transform 0.7s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.reveal-left {
+  opacity: 0;
+  transform: translateX(-48px);
+  transition: opacity 0.7s cubic-bezier(0.22, 0.61, 0.36, 1), transform 0.7s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.reveal-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.reveal-right {
+  opacity: 0;
+  transform: translateX(48px);
+  transition: opacity 0.7s cubic-bezier(0.22, 0.61, 0.36, 1), transform 0.7s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.reveal-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.reveal-scale {
+  opacity: 0;
+  transform: scale(0.85);
+  transition: opacity 0.6s cubic-bezier(0.22, 0.61, 0.36, 1), transform 0.6s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.reveal-scale.visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* ===== Phone mockup ===== */
+
+.phone-frame {
+  width: 300px;
+  height: 600px;
+  background: #1a1a2e;
+  border-radius: 44px;
+  border: 4px solid #333;
+  box-shadow:
+    0 0 0 2px #222,
+    0 24px 80px rgba(69, 20, 138, 0.4),
+    0 8px 24px rgba(0, 0, 0, 0.5);
+  position: relative;
+  overflow: hidden;
+}
+
+.phone-screen {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #1C1B1F 0%, #2D0063 40%, #45148A 100%);
+  border-radius: 40px;
+  overflow: hidden;
+}
+
+/* ===== Btn shimmer ===== */
+
+.btn-shimmer {
+  background: linear-gradient(90deg, #D4A017 0%, #F0C040 40%, #D4A017 80%);
+  background-size: 200% 100%;
+  animation: shimmer 3s ease-in-out infinite;
+}

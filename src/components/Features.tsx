@@ -23,7 +23,7 @@ const features = [
 
 export default function Features() {
   return (
-    <section id="features" className="mx-auto max-w-7xl px-8 py-32 md:px-16">
+    <section id="features" className="mx-auto max-w-7xl px-6 py-24 sm:py-32 sm:px-8 md:px-16">
       <ScrollReveal className="text-center">
         <span className="inline-block rounded-full bg-accent-gold/20 px-6 py-2.5 text-base font-semibold tracking-wide text-accent-gold">
           FUNCIONALIDADES
@@ -39,7 +39,7 @@ export default function Features() {
       <div className="mt-20 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
         {features.map((feature, i) => (
           <ScrollReveal key={feature.title} direction="scale" delay={i * 100}>
-            <div className="group relative overflow-hidden rounded-3xl bg-surface p-12 text-center transition-all duration-300 hover:-translate-y-2 hover:shadow-card-hover">
+            <div className="group relative overflow-hidden rounded-3xl bg-surface p-8 text-center transition-all duration-300 hover:-translate-y-2 hover:shadow-card-hover sm:p-12">
               <div className="absolute -right-10 -top-10 h-40 w-40 rounded-full bg-accent-gold/5 transition-all duration-500 group-hover:scale-[3]" />
               <div className="relative z-10">
                 <div className="mx-auto flex h-24 w-24 items-center justify-center rounded-2xl bg-accent-gold/10 transition-all duration-300 group-hover:rounded-full group-hover:bg-accent-gold">

@@ -7,7 +7,7 @@ export default function CTA() {
   const { openModal } = useSubscribe();
 
   return (
-    <section id="download" className="bg-surface px-8 py-28 md:px-16">
+    <section id="download" className="bg-surface px-6 py-24 sm:py-28 sm:px-8 md:px-16">
       <div className="mx-auto max-w-4xl text-center">
         <ScrollReveal>
           <h2 className="font-display text-4xl font-extrabold tracking-wide text-accent-gold md:text-5xl lg:text-6xl">

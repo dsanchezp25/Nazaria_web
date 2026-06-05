@@ -141,7 +141,7 @@ export default function Zonas() {
   const activeZona = zonas.find((z) => z.name === hovered);
 
   return (
-    <section id="zonas" className="mx-auto max-w-7xl px-8 py-32 md:px-16">
+    <section id="zonas" className="mx-auto max-w-7xl px-6 py-24 sm:py-32 sm:px-8 md:px-16">
       <ScrollReveal className="text-center">
         <span className="inline-block rounded-full bg-accent-gold/20 px-6 py-2.5 text-base font-semibold tracking-wide text-accent-gold">
           ZONAS
@@ -158,10 +158,10 @@ export default function Zonas() {
           <div className="relative w-full max-w-[760px] overflow-hidden rounded-2xl border-2 border-border/30 shadow-2xl">
             <div
               ref={mapRef}
-              className="h-[560px] w-full"
+              className="h-[340px] w-full sm:h-[420px] lg:h-[560px]"
               style={{ background: "#f5f5f5" }}
             />
-            <div className="absolute bottom-3 left-3 right-3 flex flex-wrap gap-2">
+            <div className="absolute bottom-3 left-3 right-3 flex flex-wrap gap-1.5 overflow-x-auto">
               {zonas.map((zona) => (
                 <button
                   key={zona.name}

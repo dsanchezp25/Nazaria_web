@@ -9,7 +9,7 @@ const steps = [
 
 export default function Steps() {
   return (
-    <section className="relative overflow-hidden bg-surface px-8 py-32 md:px-16">
+    <section className="relative overflow-hidden bg-surface px-6 py-24 sm:py-32 sm:px-8 md:px-16">
       <ScrollReveal className="mx-auto max-w-4xl text-center">
         <span className="inline-block rounded-full bg-accent-gold/20 px-6 py-2.5 text-base font-semibold tracking-wide text-accent-gold">
           CÓMO FUNCIONA

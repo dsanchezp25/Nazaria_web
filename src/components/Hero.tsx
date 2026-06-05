@@ -9,7 +9,7 @@ export default function Hero() {
   const { openModal } = useSubscribe();
 
   return (
-    <section className="relative flex min-h-[92vh] flex-col items-center justify-center overflow-hidden bg-background px-8 py-16 md:flex-row md:gap-24 md:px-16 lg:gap-36 xl:gap-44">
+    <section className="relative flex min-h-[92vh] flex-col items-center justify-center overflow-hidden bg-background px-4 py-16 sm:px-6 md:flex-row md:gap-24 md:px-16 lg:gap-36 xl:gap-44">
       <div className="pointer-events-none absolute inset-0 overflow-hidden">
         <div
           className="absolute -left-40 -top-40 h-[800px] w-[800px] rounded-full bg-primary-light/30 blur-3xl"
@@ -44,11 +44,11 @@ export default function Hero() {
           className="my-4 h-28 w-28 md:h-32 md:w-32"
         />
 
-        <h1 className="font-display text-5xl font-extrabold leading-[1.05] tracking-wide text-accent-gold sm:text-6xl lg:text-7xl xl:text-8xl">
+        <h1 className="font-display text-4xl font-extrabold leading-[1.05] tracking-wide text-accent-gold sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl">
           NAZARIA
         </h1>
 
-        <p className="mt-6 text-2xl leading-relaxed text-white/85 sm:text-3xl lg:text-4xl">
+        <p className="mt-6 text-xl leading-relaxed text-white/85 sm:text-2xl lg:text-3xl">
           La app inteligente para la Semana Santa de Sevilla.{" "}
           <strong className="text-accent-gold">Encuentra</strong> procesiones,{" "}
           <strong className="text-accent-gold">planifica</strong> rutas alternativas y{" "}
@@ -71,16 +71,22 @@ export default function Hero() {
           </Link>
         </div>
 
-        <div className="mt-10 flex items-center gap-6 text-white/50">
+        <div className="mt-10 flex flex-wrap items-center justify-center gap-4 text-white/50 sm:gap-6">
           <div className="flex items-center gap-2">
             <span className="material-symbols-outlined text-xl text-accent-gold">android</span>
-            <span className="text-lg font-medium">Próximamente en Google Play</span>
+            <span className="text-base font-medium sm:text-lg">Google Play</span>
           </div>
+          <div className="flex items-center gap-2">
+            <span className="material-symbols-outlined text-xl text-accent-gold">ios</span>
+            <span className="text-base font-medium sm:text-lg">App Store</span>
+          </div>
+          <span className="hidden sm:inline text-base text-white/25">·</span>
+          <span className="text-base text-white/25 sm:text-lg">Próximamente</span>
         </div>
       </ScrollReveal>
 
       <div
-        className="absolute bottom-8 left-1/2 z-10 -translate-x-1/2"
+        className="absolute -bottom-1 left-1/2 z-10 hidden -translate-x-1/2 sm:block"
         style={{ animation: "float 2.5s ease-in-out infinite" }}
       >
         <div className="flex flex-col items-center gap-2">

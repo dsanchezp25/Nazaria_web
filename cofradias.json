@@ -1,0 +1,4244 @@
+[
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús de la Victoria y María Stma. de la Paz",
+    "nombre_corto": "La Paz",
+    "cofradia_id": "la-paz",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "13:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:45"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:52"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:25"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:51"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:11"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:00"
+      }
+    ],
+    "itinerario": [
+      "San Salvador",
+      "Río de la Plata",
+      "Brasil",
+      "Parque de María Luisa (glorieta de Covadonga, avda. de Covadonga y avda. de Isabel la Católica [calzada este])",
+      "Glorieta San Diego",
+      "Palos de la Frontera",
+      "Avda. de Roma",
+      "Plaza Puerta de Jerez",
+      "Avda. de La Constitución",
+      "Adolfo Rodríguez Jurado",
+      "Plaza Ministro Indalecio Prieto",
+      "Tomás de Ibarra",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Gamazo",
+      "Joaquín Guichot",
+      "Barcelona",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Miguel Mañara",
+      "Plaza de La Contratación",
+      "San Gregorio",
+      "Plaza Puerta de Jerez",
+      "Avda. de Roma",
+      "Palos de la Frontera",
+      "Glorieta San Diego",
+      "Parque de María Luisa (avda. de Isabel la Católica [calzada este], avda. de Covadonga y glorieta de Covadonga)",
+      "Brasil",
+      "Progreso",
+      "Porvenir",
+      "Río de la Plata",
+      "San Salvador"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad Sacramental del Stmo. Cristo de la Buena Muerte y María Stma. de la Hiniesta",
+    "nombre_corto": "La Hiniesta",
+    "cofradia_id": "la-hiniesta",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "13:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:00"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:07"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:40"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:06"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:10"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:30"
+      }
+    ],
+    "itinerario": [
+      "San Julián",
+      "Madre Dolores Márquez",
+      "Puerta de Córdoba",
+      "Morera",
+      "Macarena",
+      "Aniceto Sáenz",
+      "Plaza del Pumarejo",
+      "San Luis",
+      "Relator",
+      "Feria",
+      "Correduría",
+      "Amor de Dios",
+      "Plaza Alameda de Hércules",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos (lado oeste)",
+      "Doña María Coronel",
+      "Bustos Tavera",
+      "Plaza de San Marcos",
+      "Vergara",
+      "Hiniesta",
+      "Lira",
+      "Juzgado",
+      "Moravia",
+      "Duque Cornejo",
+      "San Julián"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad de Ntro. Padre Jesús Despojado de sus Vestiduras, María Stma. de los Dolores y Misericordia y San Juan Evangelista",
+    "nombre_corto": "Jesús Despojado",
+    "cofradia_id": "jesus-despojado",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "14:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "16:31"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "16:38"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:11"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "17:37"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "18:25"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "23:00"
+      }
+    ],
+    "itinerario": [
+      "Plaza de Molviedro",
+      "Adolfo Cuéllar",
+      "Fray Bartolomé de las Casas",
+      "Zaragoza",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Rioja",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Santo Tomás",
+      "Adolfo Rodríguez Jurado",
+      "Plaza Ministro Indalecio Prieto",
+      "Tomás de Ibarra",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Rodo",
+      "Calle Real de la Carretería",
+      "Toneleros",
+      "Antonia Díaz",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Gamazo",
+      "Zaragoza",
+      "Fray Bartolomé de las Casas",
+      "Adolfo Cuéllar",
+      "Plaza de Molviedro"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad de la Sagrada Entrada en Jerusalén, Stmo. Cristo del Amor, María Stma. del Socorro y Santiago Apóstol",
+    "nombre_corto": "La Borriquita",
+    "cofradia_id": "la-borriquita",
+    "pasos": 1,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "14:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "16:05"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "16:12"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "16:45"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "17:11"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "17:56"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "19:00"
+      }
+    ],
+    "itinerario": [
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Amor de Dios",
+      "San Miguel",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad Sacramental de la Sagrada Cena, Stmo. Cristo de la Humildad y Paciencia y Nuestra Sra. del Subterráneo Reina de Cielos y Tierra",
+    "nombre_corto": "La Cena",
+    "cofradia_id": "la-cena",
+    "pasos": 3,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "16:15"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:46"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:53"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:26"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:52"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:47"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "23:40"
+      }
+    ],
+    "itinerario": [
+      "Sol",
+      "Plaza de Los Terceros",
+      "Capataz Manuel Santiago",
+      "Alhóndiga",
+      "Almirante Apodaca",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Plaza Fernando de Herrera",
+      "Daoiz",
+      "García Tassara",
+      "Amor de Dios",
+      "San Miguel",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Plaza de la Pescadería",
+      "Ángel María Camacho",
+      "Plaza de La Alfalfa",
+      "San Juan",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos (lado oeste)",
+      "Doña María Coronel",
+      "Gerona",
+      "Capataz Manuel Santiago",
+      "Plaza de Los Terceros",
+      "Sol"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús de las Penas y María Stma. de Gracia y Esperanza",
+    "nombre_corto": "San Roque",
+    "cofradia_id": "san-roque",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "16:35"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:22"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:29"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:02"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:28"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:22"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:10"
+      }
+    ],
+    "itinerario": [
+      "Plaza Carmen Benítez",
+      "Recaredo",
+      "Puñonrostro",
+      "Jáuregui",
+      "Plaza Padre Jerónimo de Córdoba",
+      "Plaza Ponce de León",
+      "Juan de Mesa",
+      "Almirante Apodaca",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Calle Alfalfa",
+      "Cabeza del Rey Don Pedro",
+      "Boteros",
+      "Plaza de San Idelfonso",
+      "Caballerizas",
+      "Plaza de Pilatos",
+      "Calle San Esteban",
+      "Medinaceli",
+      "Imperial",
+      "Calería",
+      "Juan de la Encina",
+      "Guadalupe",
+      "Recaredo",
+      "Plaza Carmen Benítez"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús de las Penas y María Stma. de la Estrella",
+    "nombre_corto": "La Estrella",
+    "cofradia_id": "la-estrella",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:45"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "20:37"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:47"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "21:17"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:43"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:12"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "03:30"
+      }
+    ],
+    "itinerario": [
+      "San Jacinto",
+      "Plaza del Altozano",
+      "Puente de Isabel II",
+      "Reyes Católicos",
+      "Puerta de Triana",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Rioja",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia, muralla del Alcázar y Archivo de Indias)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Adriano",
+      "Pastor y Landero",
+      "Reyes Católicos",
+      "Puente de Isabel II",
+      "Plaza del Altozano",
+      "San Jacinto"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús del Silencio en el Desprecio de Herodes, María Stma. de la Amargura y San Juan Evangelista",
+    "nombre_corto": "La Amargura",
+    "cofradia_id": "la-amargura",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "18:25"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:57"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:04"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:37"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:03"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:02"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:05"
+      }
+    ],
+    "itinerario": [
+      "San Juan de la Palma",
+      "Madre María Purísima de la Cruz",
+      "Feria",
+      "Conde de Torrejón",
+      "Amor de Dios",
+      "Plaza Alameda de Hércules",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Villegas",
+      "Plaza del Salvador",
+      "Cuna",
+      "Laraña",
+      "Plaza de la Encarnación (lado este)",
+      "Alcázares",
+      "Santa Ángela de la Cruz",
+      "San Juan de la Palma"
+    ]
+  },
+  {
+    "dia": "Domingo de Ramos",
+    "day_id": "domingo-de-ramos",
+    "fecha": "2025-04-13",
+    "cofradia": "Hermandad de la Sagrada Entrada en Jerusalén, Stmo. Cristo del Amor, María Stma. del Socorro y Santiago Apóstol",
+    "nombre_corto": "El Amor",
+    "cofradia_id": "el-amor",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:50"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:47"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:54"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:27"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:53"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "00:06"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:25"
+      }
+    ],
+    "itinerario": [
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Amor de Dios",
+      "San Miguel",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús Cautivo y Rescatado y Ntra. Sra. del Rosario Doloroso",
+    "nombre_corto": "San Pablo",
+    "cofradia_id": "san-pablo",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "11:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "16:25"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "16:32"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:05"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "17:31"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "18:24"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:50"
+      }
+    ],
+    "itinerario": [
+      "Calle Señora del Rosario",
+      "Avda. de Pedro Romero",
+      "Doctor Laffón Soto",
+      "Avda. de la Soleá",
+      "Sinaí",
+      "Hernando del Pulgar",
+      "Luis Montoto",
+      "Puerta de Carmona",
+      "Calle San Esteban",
+      "Plaza de Pilatos",
+      "Águilas",
+      "Calle Alfalfa",
+      "Jesús de las Tres Caídas",
+      "Cuesta del Rosario",
+      "Villegas",
+      "Álvarez Quintero",
+      "Entrecárceles",
+      "Francisco Bruna",
+      "Plaza de San Francisco",
+      "Granada",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Plaza de Jesús de la Pasión",
+      "Lineros",
+      "Puente y Pellón",
+      "Plaza de la Encarnación (lado oeste)",
+      "Imagen",
+      "Plaza de San Pedro",
+      "Almirante Apodaca",
+      "Juan de Mesa",
+      "Plaza Ponce de León",
+      "Escuelas Pías",
+      "Pinto",
+      "Valle",
+      "Mateos",
+      "María Auxiliadora",
+      "Joaquín Morales y Torres",
+      "Arroyo",
+      "Urquiza",
+      "Venecia",
+      "Antonio Filpo Rojas",
+      "Samaniego",
+      "Puente sobre la vía del tren",
+      "Avda. de Kansas City",
+      "Avda. El Greco",
+      "Avda. de la Soleá",
+      "Doctor Laffón Soto",
+      "Avda. de Pedro Romero",
+      "Calle Señora del Rosario"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús Cautivo en el abandono de sus Discípulos y Ntra. Sra. de las Mercedes",
+    "nombre_corto": "Santa Genoveva",
+    "cofradia_id": "santa-genoveva",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "12:25"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:46"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:53"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:26"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:52"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:12"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:10"
+      }
+    ],
+    "itinerario": [
+      "Romero de Torres",
+      "Almirante Topete",
+      "Calle Nuestra Señora de las Mercedes",
+      "Felipe II",
+      "Diego de la Barrera",
+      "Porvenir",
+      "Río de la Plata",
+      "Brasil",
+      "Parque de María Luisa (glorieta de Covadonga, avda. de Covadonga y avda. de Isabel la Católica [calzada este])",
+      "Glorieta San Diego",
+      "Palos de la Frontera",
+      "Avda. de Roma",
+      "Plaza Puerta de Jerez",
+      "Avda. de La Constitución",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Gamazo",
+      "Joaquín Guichot",
+      "Barcelona",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Miguel Mañara",
+      "Plaza de La Contratación",
+      "San Gregorio",
+      "Plaza Puerta de Jerez",
+      "San Fernando",
+      "Cancela principal del Rectorado",
+      "Lonja de la Universidad",
+      "Cancela puerta antigua Facultad de Derecho",
+      "Avda. El Cid",
+      "Glorieta San Diego",
+      "Parque de María Luisa (avda. de Isabel la Católica [calzada este], avda. de Covadonga, glorieta de Covadonga y avda. de Don Pelayo)",
+      "Felipe II",
+      "Bogotá",
+      "Pedro Salinas",
+      "Avda. Ramón Carande",
+      "Pedro Salinas",
+      "Coullaut Valera",
+      "Avda. de Los Teatinos",
+      "Romero de Torres"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús de la Redención en el Beso de Judas y María Stma. del Rocío",
+    "nombre_corto": "La Redención",
+    "cofradia_id": "la-redencion",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "14:45"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "16:49"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:06"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:39"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:05"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:11"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:00"
+      }
+    ],
+    "itinerario": [
+      "Plaza de Jesús de la Redención",
+      "Santiago",
+      "Juan de Mesa",
+      "Almirante Apodaca",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Villegas",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos",
+      "Dormitorio",
+      "Alhóndiga",
+      "Plaza de San Leandro",
+      "Francisco Carrión Mejías",
+      "Juan de Mesa",
+      "Santiago",
+      "Plaza de Jesús de la Redención"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús en su Soberano Poder ante Caifás y Ntra. Sra. de la Salud",
+    "nombre_corto": "San Gonzalo",
+    "cofradia_id": "san-gonzalo",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:19"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:26"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:59"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:25"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:00"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "03:00"
+      }
+    ],
+    "itinerario": [
+      "Plaza de San Gonzalo",
+      "Bienvenido Puelles Oliver",
+      "Dolores León",
+      "Avda. de Coria",
+      "San Jacinto",
+      "Plaza del Altozano",
+      "Puente de Isabel II",
+      "Reyes Católicos",
+      "Puerta de Triana",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Rioja",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Adriano",
+      "Pastor y Landero",
+      "Reyes Católicos",
+      "Puente de Isabel II",
+      "Plaza del Altozano",
+      "San Jacinto",
+      "Avda. de Coria",
+      "Calle Nuestra Señora de la Salud",
+      "Plaza de San Gonzalo"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad Sacramental del Santísimo Cristo de la Caridad en su traslado al Sepulcro, Ntra. Sra. de las Penas y Santa Marta",
+    "nombre_corto": "Santa Marta",
+    "cofradia_id": "santa-marta",
+    "pasos": 1,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "18:10"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:47"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:54"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:27"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:53"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:44"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "22:20"
+      }
+    ],
+    "itinerario": [
+      "Calle San Andrés",
+      "García Tassara",
+      "Amor de Dios",
+      "San Miguel",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Plaza Fernando de Herrera",
+      "Daoiz",
+      "Calle San Andrés"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad del Santísimo Cristo de las Aguas, Ntra. Madre y Sra. del Mayor Dolor y María Stma. de Guadalupe",
+    "nombre_corto": "Las Aguas",
+    "cofradia_id": "las-aguas",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "18:15"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:38"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:45"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:18"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:13"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:44"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:20"
+      }
+    ],
+    "itinerario": [
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Plaza de Molviedro",
+      "Doña Guiomar",
+      "Zaragoza",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Rioja",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Santo Tomás",
+      "Adolfo Rodríguez Jurado",
+      "Plaza Ministro Indalecio Prieto",
+      "Tomás de Ibarra",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad de la Santísima Vera+Cruz, Sangre de Ntro. Señor Jesucristo y Tristezas de María Santísima",
+    "nombre_corto": "Vera+Cruz",
+    "cofradia_id": "vera-cruz",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "19:35"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "20:35"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:42"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "21:15"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:41"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:31"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:00"
+      }
+    ],
+    "itinerario": [
+      "Calle Jesús de la Vera-Cruz",
+      "Virgen de los Buenos Libros",
+      "Teniente Borges",
+      "Plaza de La Concordia",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Placentines",
+      "Francos",
+      "Villegas",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Aponte",
+      "Jesús del Gran Poder",
+      "Las Cortes",
+      "Plaza de La Concordia",
+      "Plaza de la Gavidia",
+      "Baños",
+      "Calle Jesús de la Vera-Cruz"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad de Nuestro Padre Jesús de las Penas y María Stma. de los Dolores",
+    "nombre_corto": "Las Penas",
+    "cofradia_id": "las-penas",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:06"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:13"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "21:46"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:12"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:03"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:55"
+      }
+    ],
+    "itinerario": [
+      "Cardenal Cisneros",
+      "San Vicente",
+      "Alfonso XII",
+      "Plaza del Duque de la Victoria",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Placentines",
+      "Francos",
+      "Villegas",
+      "Plaza del Salvador",
+      "Sagasta",
+      "Jovellanos",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "Campana",
+      "Plaza del Duque de la Victoria",
+      "Alfonso XII",
+      "Santa Vicenta María",
+      "Virgen de los Buenos Libros",
+      "Cardenal Cisneros"
+    ]
+  },
+  {
+    "dia": "Lunes Santo",
+    "day_id": "lunes-santo",
+    "fecha": "2025-04-14",
+    "cofradia": "Hermandad Sacramental de la Sagrada Expiración de Ntro. Señor Jesucristo y María Stma. de las Aguas",
+    "nombre_corto": "El Museo",
+    "cofradia_id": "el-museo",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:40"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "22:09"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "22:16"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:49"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "23:15"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "00:15"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "03:15"
+      }
+    ],
+    "itinerario": [
+      "Plaza del Museo (la rodea completamente)",
+      "Alfonso XII",
+      "Plaza del Duque de la Victoria",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "García de Vinuesa",
+      "Puerta del Arenal",
+      "Castelar",
+      "Plaza de Molviedro",
+      "Doña Guiomar",
+      "Zaragoza",
+      "Gravina",
+      "Pedro del Toro",
+      "Bailén",
+      "Miguel de Carvajal",
+      "Plaza del Museo (lado oeste)"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad Sacramental del Santísimo Cristo del Desamparo y Abandono, Ntro. Padre Jesús de la Humildad y Ntra. Sra. de los Dolores",
+    "nombre_corto": "El Cerro del Águila",
+    "cofradia_id": "el-cerro-del-aguila",
+    "pasos": 3,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "11:40"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "16:40"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "16:47"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:20"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "17:46"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:09"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:00"
+      }
+    ],
+    "itinerario": [
+      "Nuestra Señora de los Dolores",
+      "Afán de Ribera",
+      "Aragón",
+      "Avenida de Hytasa",
+      "Glorieta Bizco Amate",
+      "Ramón y Cajal",
+      "Enramadilla",
+      "Glorieta Doña María de las Mercedes de Borbón y Orleans",
+      "Carlos V",
+      "Plaza de Don Juan de Austria",
+      "San Fernando",
+      "Puerta de Jerez",
+      "Avda. de la Constitución",
+      "Almirantazgo",
+      "Arfe",
+      "Puerta del Arenal",
+      "García de Vinuesa",
+      "Fernández y González",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza Virgen de los Reyes",
+      "Plaza del Triunfo",
+      "Fray Ceferino González",
+      "Avda. de la Constitución",
+      "Puerta de Jerez",
+      "Avda. de Roma",
+      "Palos de la Frontera",
+      "Glorieta San Diego",
+      "Avenida de Portugal",
+      "Dr. Pedro de Castro",
+      "Doctor Antonio Cortés Lladó",
+      "Enramadilla",
+      "Ramón y Cajal",
+      "Glorieta Bizco Amate",
+      "Avenida de Hytasa",
+      "Aníbal González",
+      "Afán de Ribera",
+      "Nuestra Señora de los Dolores"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad Sacramental de la Sagrada Presentación de Jesús al Pueblo, Stmo. Cristo de la Sangre y Nuestra Señora de la Encarnación Coronada",
+    "nombre_corto": "San Benito",
+    "cofradia_id": "san-benito",
+    "pasos": 3,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "14:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:44"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:51"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:24"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:50"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:27"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:15"
+      }
+    ],
+    "itinerario": [
+      "San Benito",
+      "Luis Montoto",
+      "Puerta de Carmona",
+      "Muro de los Navarros",
+      "Santiago",
+      "Juan de Mesa",
+      "Almirante Apodaca",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Alfalfa",
+      "Águilas",
+      "Plaza de Pilatos",
+      "San Esteban",
+      "Puerta de Carmona",
+      "Luis Montoto",
+      "San Benito"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad Sacramental de Nuestro Padre Jesús de la Salud y María Stma. de la Candelaria",
+    "nombre_corto": "La Candelaria",
+    "cofradia_id": "la-candelaria",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:04"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:42"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:49"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:22"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:48"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:59"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:56"
+      }
+    ],
+    "itinerario": [
+      "Plaza Nuestro Padre Jesús de la Salud",
+      "Plaza Ramón Ybarra Llosent",
+      "Muñoz y Pabón",
+      "Cabeza del Rey Don Pedro",
+      "Candilejo",
+      "Calle Alfalfa",
+      "Plaza de La Alfalfa",
+      "Ángel María Camacho",
+      "Plaza de la Pescadería",
+      "Cuesta del Rosario",
+      "Villegas",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado Muralla)",
+      "Miguel Mañara",
+      "Plaza de La Contratación",
+      "San Gregorio",
+      "Plaza Puerta de Jerez",
+      "San Fernando",
+      "Jardines de Murillo (paseo Catalina de Ribera)",
+      "Cano y Cueto",
+      "Santa María la Blanca",
+      "San José",
+      "Plaza Nuestro Padre Jesús de la Salud"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad de Nuestro Padre Jesús antes Anás, María Santísima del Dulce Nombre y San Juan Evangelista",
+    "nombre_corto": "El Dulce Nombre (La Bofetá)",
+    "cofradia_id": "el-dulce-nombre",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:15"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:02"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:09"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:42"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:08"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:07"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:15"
+      }
+    ],
+    "itinerario": [
+      "Plaza de San Lorenzo",
+      "Cardenal Spínola",
+      "Plaza de la Gavidia",
+      "Plaza de La Concordia",
+      "Las Cortes",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Daoiz",
+      "García Tassara",
+      "Amor de Dios",
+      "San Miguel",
+      "Jesús del Gran Poder",
+      "Conde de Barajas",
+      "Plaza de San Lorenzo"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad de Ntro. P. Jesús de la Salud y Buen Viaje y María Stma. Madre y Señora de los Desamparados",
+
+    "cofradia_id": "san-esteban",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "20:34"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:41"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "21:14"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:40"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:46"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:35"
+      }
+    ],
+    "itinerario": [
+      "San Esteban",
+      "Plaza de Pilatos",
+      "Águilas",
+      "Rodríguez Marín",
+      "Plaza de San Ildefonso",
+      "Zamudio",
+      "Plaza de San Leandro",
+      "Alhóndiga",
+      "Dormitorio",
+      "Plaza del Cristo de Burgos",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Plaza de la Pescadería",
+      "Ángel María Camacho",
+      "Plaza de La Alfalfa",
+      "Calle Alfalfa",
+      "Águilas",
+      "Plaza de Pilatos",
+      "San Esteban"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad del Santísimo Cristo de la Buena Muerte y María Stma. de la Angustia",
+    "nombre_corto": "Los Estudiantes",
+    "cofradia_id": "los-estudiantes",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "18:50"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:46"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:53"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:26"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:52"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "00:16"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:45"
+      }
+    ],
+    "itinerario": [
+      "Lonja de la Universidad",
+      "Cancela principal del Rectorado",
+      "San Fernando",
+      "Plaza Puerta de Jerez",
+      "San Gregorio",
+      "Plaza de la Contratación",
+      "Miguel de Mañara",
+      "Plaza del Triunfo",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Gamazo",
+      "Zaragoza",
+      "Badajoz",
+      "Plaza Nueva",
+      "Méndez Núñez",
+      "Plaza de la Magdalena",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Miguel Mañara",
+      "Plaza de la Contratación",
+      "San Gregorio",
+      "Plaza Puerta de Jerez",
+      "San Fernando",
+      "Doña María de Padilla",
+      "Lonja de la Universidad"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad del Santísimo Cristo de las Almas y María Stma. de Gracia y Amparo",
+    "nombre_corto": "Los Javieres",
+    "cofradia_id": "los-javieres",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "19:40"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:21"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:28"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:01"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:27"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:11"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:15"
+      }
+    ],
+    "itinerario": [
+      "Feria",
+      "Correduría",
+      "Amor de Dios",
+      "Plaza Alameda de Hércules",
+      "Trajano",
+      "Conde de Barajas",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo Vallejo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Plaza Fernando de Herrera",
+      "Daoiz",
+      "García Tassara",
+      "Amor de Dios",
+      "Correduría",
+      "Feria",
+      "Parroquia de Omnium Sanctorum"
+    ]
+  },
+  {
+    "dia": "Martes Santo",
+    "day_id": "martes-santo",
+    "fecha": "2025-04-15",
+    "cofradia": "Hermandad Sacramental del Santísimo Cristo de las Misericordias, Santa María de la Antigua y Nuestra Señora de los Dolores",
+    "nombre_corto": "Santa Cruz",
+    "cofradia_id": "santa-cruz",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "19:50"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "22:51"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "22:58"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "23:31"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "23:57"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "00:50"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:40"
+      }
+    ],
+    "itinerario": [
+      "Mateos Gago",
+      "Rodrigo Caro",
+      "Plaza de La Alianza",
+      "Joaquín Romero Murube",
+      "Plaza del Triunfo (lado Muralla)",
+      "Santo Tomás",
+      "Santander",
+      "Tomás de Ybarra",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Gamazo",
+      "Joaquín Guichot",
+      "Barcelona",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado Casa de la Provincia)",
+      "Joaquín Romero Murube",
+      "Plaza de La Alianza",
+      "Rodrigo Caro",
+      "Mateos Gago"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad Sacramental del Stmo. Cristo de la Sed y Santa María de Consolación, Madre de la Iglesia",
+    "nombre_corto": "Nervión",
+    "cofradia_id": "nervion",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "12:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:12"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:19"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:52"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:18"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:23"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:20"
+      }
+    ],
+    "itinerario": [
+      "Calle Cristo de la Sed",
+      "Cardenal Lluch",
+      "Avda. de Eduardo Dato",
+      "Hospital de San Juan de Dios",
+      "Avda. de Eduardo Dato",
+      "Jiménez Aranda",
+      "Luis Montoto",
+      "Puerta de Carmona",
+      "Muro de los Navarros",
+      "Santiago",
+      "Juan de Mesa",
+      "Almirante Apodaca",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Calle Alfalfa",
+      "Águilas",
+      "Plaza de Pilatos",
+      "Calle San Esteban",
+      "Puerta de Carmona",
+      "Luis Montoto",
+      "José Luis de Casso",
+      "Rico Cejudo",
+      "Goya",
+      "Calle Cristo de la Sed"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad Sacramental del Stmo. Cristo de la Salud y María Stma. del Refugio",
+    "nombre_corto": "San Bernardo",
+    "cofradia_id": "san-bernardo",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "14:15"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:33"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:40"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:13"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:39"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:07"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:30"
+      }
+    ],
+    "itinerario": [
+      "Calle Santísimo Cristo de la Salud",
+      "Gallinato",
+      "Calle San Bernardo",
+      "Avda. de Eduardo Dato",
+      "Puente de San Bernardo",
+      "Demetrio de los Ríos",
+      "Puerta de la Carne",
+      "Santa María la Blanca",
+      "San José",
+      "Plaza Ntro. P. Jesús de la Salud",
+      "Plaza Ramón Ybarra Llosent",
+      "Muñoz y Pabón",
+      "Cabeza del Rey Don Pedro",
+      "Candilejo",
+      "Calle Alfalfa",
+      "Plaza de La Alfalfa",
+      "Ángel María Camacho",
+      "Plaza de la Pescadería",
+      "Cuesta del Rosario",
+      "Villegas",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Catedral, Archivo de Indias y muralla del Alcázar)",
+      "Joaquín Romero Murube",
+      "Plaza de La Alianza",
+      "Rodrigo Caro",
+      "Mateos Gago",
+      "Fabiola",
+      "Madre de Dios",
+      "San José",
+      "Santa María la Blanca",
+      "Puerta de la Carne",
+      "Demetrio de los Ríos",
+      "Puente de San Bernardo",
+      "Avda. de Eduardo Dato",
+      "Calle San Bernardo",
+      "Santo Rey",
+      "Calle Santísimo Cristo de la Salud"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad de Nuestro Padre Jesús de la Paz y Nuestra Señora del Carmen en sus Misterios Dolorosos",
+    "nombre_corto": "El Carmen",
+    "cofradia_id": "el-carmen",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "16:43"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "16:50"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:23"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "17:49"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "18:37"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:00"
+      }
+    ],
+    "itinerario": [
+      "Feria",
+      "Peris Mencheta",
+      "Mata",
+      "Belén",
+      "Plaza Alameda de Hércules (bulevar)",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Córdoba",
+      "Lineros",
+      "Puente y Pellón",
+      "Plaza de la Encarnación (lado oeste)",
+      "Alcázares",
+      "Santa Ángela de la Cruz",
+      "San Juan de la Palma",
+      "Madre María Purísima de la Cruz",
+      "Feria",
+      "Guadiana",
+      "Peris Mencheta",
+      "Feria"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad Sacramental del Stmo. Cristo del Buen Fin y Nuestra Señora de la Palma",
+    "nombre_corto": "El Buen Fin",
+    "cofradia_id": "el-buen-fin",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:50"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:58"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:05"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:38"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:04"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:58"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:00"
+      }
+    ],
+    "itinerario": [
+      "San Vicente",
+      "Plaza de San Antonio de Padua",
+      "Marqués de la Mina",
+      "Alcoy",
+      "Eslava",
+      "Plaza de San Lorenzo",
+      "Conde de Barajas",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Plaza de Molviedro",
+      "Doña Guiomar",
+      "Zaragoza",
+      "Gravina",
+      "Pedro del Toro",
+      "Bailén",
+      "Miguel de Carvajal",
+      "Plaza del Museo (lado oeste)",
+      "San Vicente"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad del Santísimo Cristo de la Lanzada y María Santísima del Buen Fin",
+    "nombre_corto": "La Lanzada",
+    "cofradia_id": "la-lanzada",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:42"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:49"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:02"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:48"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:38"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:00"
+      }
+    ],
+    "itinerario": [
+      "Plaza de San Martín",
+      "Saavedras",
+      "Alberto Lista",
+      "Conde de Torrejón",
+      "Marco Sancho",
+      "Correduría",
+      "Amor de Dios",
+      "Plaza Alameda de Hércules",
+      "Trajano",
+      "Santa Bárbara",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Plaza Fernando de Herrera",
+      "Daoiz",
+      "Calle San Andrés",
+      "Cervantes",
+      "Plaza de San Martín"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad del Stmo. Cristo de la Misericordia, Ntra. Sra. de la Piedad y María Stma. de la Caridad en su Soledad",
+    "nombre_corto": "El Baratillo",
+    "cofradia_id": "el-baratillo",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:10"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "20:13"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:20"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:53"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:19"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:48"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:30"
+      }
+    ],
+    "itinerario": [
+      "Adriano",
+      "Pastor y Landero",
+      "Reyes Católicos",
+      "Puerta de Triana",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Méndez Núñez",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Santo Tomás",
+      "Adolfo Rodríguez Jurado",
+      "Plaza Ministro Indalecio Prieto",
+      "Tomás de Ibarra",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Adriano"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad de los Panaderos — Stmo. Cristo del Perdón y Mª Stma. de Regla Coronada",
+    "nombre_corto": "Los Panaderos",
+    "cofradia_id": "los-panaderos",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:23"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:30"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:03"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:29"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:26"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:10"
+      }
+    ],
+    "itinerario": [
+      "Orfila",
+      "Plaza Fernando de Herrera",
+      "Daoiz",
+      "García Tassara",
+      "Amor de Dios",
+      "San Miguel",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad Sacramental de la Divina Misericordia, Stmo. Cristo de las Siete Palabras, María Stma de los Remedios, Ntra. Sra. de la Cabeza y San Juan Evangelista",
+    "nombre_corto": "Las Siete Palabras",
+    "cofradia_id": "las-siete-palabras",
+    "pasos": 3,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "22:01"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "22:08"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:41"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "23:07"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:56"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:15"
+      }
+    ],
+    "itinerario": [
+      "Cardenal Cisneros",
+      "Calle Jesús de la Vera-Cruz",
+      "Baños",
+      "Plaza de la Gavidia",
+      "Plaza de La Concordia",
+      "Las Cortes",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Hernando Colón",
+      "Plaza de San Francisco",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "Campana",
+      "Plaza del Duque de la Victoria",
+      "Alfonso XII",
+      "Santa Vicenta María",
+      "Virgen de los Buenos Libros",
+      "Cardenal Cisneros"
+    ]
+  },
+  {
+    "dia": "Miércoles Santo",
+    "day_id": "miercoles-santo",
+    "fecha": "2025-04-16",
+    "cofradia": "Hermandad del Santísimo Cristo de Burgos, Madre de Dios de la Palma y San Juan Evangelista",
+    "nombre_corto": "El Cristo de Burgos",
+    "cofradia_id": "el-cristo-de-burgos",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "21:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "22:31"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "22:38"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "23:11"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "23:37"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "00:21"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:45"
+      }
+    ],
+    "itinerario": [
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Plaza de Jesús de la Pasión",
+      "Alcaicería de la Loza",
+      "Plaza de La Alfalfa",
+      "San Juan",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos",
+      "Plaza de San Pedro"
+    ]
+  },
+  {
+    "dia": "Jueves Santo",
+    "day_id": "jueves-santo",
+    "fecha": "2025-04-17",
+    "cofradia": "Hermandad Sacramental del Santísimo Cristo de la Exaltación y Nuestra Señora de las Lágrimas",
+    "nombre_corto": "La Exaltación",
+    "cofradia_id": "la-exaltacion",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:55"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:18"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:25"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:58"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:24"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:18"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "23:40"
+      }
+    ],
+    "itinerario": [
+      "Santa Catalina",
+      "Gerona",
+      "Santa Ángela de la Cruz",
+      "Alcázares",
+      "Plaza de la Encarnación (lado este)",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Villegas",
+      "Cuesta del Rosario",
+      "Plaza de la Pescadería",
+      "Ángel María Camacho",
+      "Plaza de La Alfalfa",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos",
+      "Almirante Apodaca",
+      "Alhóndiga",
+      "Santa Catalina"
+    ]
+  },
+  {
+    "dia": "Jueves Santo",
+    "day_id": "jueves-santo",
+    "fecha": "2025-04-17",
+    "cofradia": "Hermandad del Santísimo Cristo de la Fundación y Nuestra Señora de los Ángeles Coronada",
+    "nombre_corto": "Los Negritos",
+    "cofradia_id": "los-negritos",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:55"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:40"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:47"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:20"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:46"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:43"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "23:20"
+      }
+    ],
+    "itinerario": [
+      "Recaredo",
+      "Plaza de San Agustín",
+      "Puerta de Carmona",
+      "San Esteban",
+      "Plaza de Pilatos",
+      "Águilas",
+      "Alfalfa",
+      "Jesús de las Tres Caídas",
+      "Cuesta del Rosario",
+      "Villegas",
+      "Plaza del Salvador",
+      "Sagasta",
+      "Jovellanos",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Plaza de la Pescadería",
+      "Ángel María Camacho",
+      "Plaza de la Alfalfa",
+      "Alfalfa",
+      "Águilas",
+      "Plaza de Pilatos",
+      "San Esteban",
+      "Puerta de Carmona",
+      "Muro de los Navarros",
+      "Guadalupe",
+      "Recaredo"
+    ]
+  },
+  {
+    "dia": "Jueves Santo",
+    "day_id": "jueves-santo",
+    "fecha": "2025-04-17",
+    "cofradia": "Hermandad de la Sagrada Columna y Azotes de Ntro. Señor Jesucristo y María Santísima de la Victoria",
+    "nombre_corto": "Las Cigarreras",
+    "cofradia_id": "las-cigarreras",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:53"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:00"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:33"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:59"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:50"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:35"
+      }
+    ],
+    "itinerario": [
+      "Sol",
+      "Plaza de Los Terceros",
+      "Capataz Manuel Santiago",
+      "Alhóndiga",
+      "Almirante Apodaca",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Miguel Mañara",
+      "Plaza de la Contratación",
+      "San Gregorio",
+      "Plaza Puerta de Jerez",
+      "San Fernando",
+      "Jardines de Murillo (paseo de Catalina de Ribera)",
+      "Cano y Cueto",
+      "Santa María la Blanca",
+      "San José",
+      "Plaza Ntro. Padre Jesús de la Salud",
+      "Plaza Ramón Ybarra Llosent",
+      "Muñoz y Pabón",
+      "Cabeza del Rey Don Pedro",
+      "Candilejo",
+      "Calle Alfalfa",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos",
+      "Doña María Coronel",
+      "Bustos Tavera",
+      "Plaza de Los Terceros",
+      "Sol"
+    ]
+  },
+  {
+    "dia": "Jueves Santo",
+    "day_id": "jueves-santo",
+    "fecha": "2025-04-17",
+    "cofradia": "Hermandad de la Sagrada Oración de Ntro. Señor Jesucristo en el Huerto y María Santísima del Rosario en sus Misterios Dolorosos",
+    "nombre_corto": "Montesión",
+    "cofradia_id": "montesion",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:25"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:32"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:05"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:31"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:35"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:30"
+      }
+    ],
+    "itinerario": [
+      "Feria",
+      "Correduría",
+      "Amor de Dios",
+      "Plaza Alameda de Hércules",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Laraña",
+      "Plaza de la Encarnación",
+      "Alcázares",
+      "Santa Ángela de la Cruz",
+      "San Juan de la Palma",
+      "Madre María Purísima de la Cruz",
+      "Feria"
+    ]
+  },
+  {
+    "dia": "Jueves Santo",
+    "day_id": "jueves-santo",
+    "fecha": "2025-04-17",
+    "cofradia": "Hermandad del Stmo. Cristo de la Coronación de Espinas, Ntro. Padre Jesús con la Cruz al Hombro, Ntra. Señora del Valle y Santa Mujer Verónica",
+    "nombre_corto": "El Valle",
+    "cofradia_id": "el-valle",
+    "pasos": 3,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "19:25"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "20:45"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:52"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "21:25"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:51"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:51"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:45"
+      }
+    ],
+    "itinerario": [
+      "Laraña",
+      "Orfila",
+      "Plaza Fernando de Herrera",
+      "Daoiz",
+      "García Tassara",
+      "Amor de Dios",
+      "San Miguel",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Laraña"
+    ]
+  },
+  {
+    "dia": "Jueves Santo",
+    "day_id": "jueves-santo",
+    "fecha": "2025-04-17",
+    "cofradia": "Hermandad del Sagrado Descendimiento de Ntro. Señor Jesucristo y Quinta Angustia de María Santísima",
+    "nombre_corto": "La Quinta Angustia",
+    "cofradia_id": "la-quinta-angustia",
+    "pasos": 1,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "19:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "20:10"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:17"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:50"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:16"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:10"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:00"
+      }
+    ],
+    "itinerario": [
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Rioja",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Plaza de Molviedro",
+      "Doña Guiomar",
+      "Zaragoza",
+      "San Pablo"
+    ]
+  },
+  {
+    "dia": "Jueves Santo",
+    "day_id": "jueves-santo",
+    "fecha": "2025-04-17",
+    "cofradia": "Hermandad Sacramental de Nuestro Padre Jesús de la Pasión y Nuestra Madre y Señora de la Merced",
+    "nombre_corto": "Pasión",
+    "cofradia_id": "pasion",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:15"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:26"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:33"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:06"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:32"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:50"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:15"
+      }
+    ],
+    "itinerario": [
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Amor de Dios",
+      "San Miguel",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Villegas",
+      "Plaza del Salvador"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Madrugada)",
+    "day_id": "madrugada",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad de Nuestro Padre Jesús de la Sentencia y María Santísima de la Esperanza Macarena",
+    "nombre_corto": "La Macarena",
+    "cofradia_id": "la-macarena",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "00:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "03:04"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "03:11"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "03:44"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "04:10"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "06:10"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "13:30"
+      }
+    ],
+    "itinerario": [
+      "Plaza de la Esperanza Macarena",
+      "Resolana",
+      "Feria",
+      "Relator",
+      "Plaza Alameda de Hércules",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Villegas",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos (lado oeste)",
+      "Plaza de San Pedro",
+      "Santa Ángela de la Cruz",
+      "San Juan de la Palma",
+      "Madre María Purísima de la Cruz",
+      "Feria",
+      "Relator",
+      "Parras",
+      "Escoberos",
+      "Fray Luis Sotelo",
+      "Resolana",
+      "Arco de la Macarena",
+      "Plaza de la Esperanza Macarena"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Madrugada)",
+    "day_id": "madrugada",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad de Ntro. Padre Jesús Nazareno, Santa Cruz en Jerusalén y María Santísima de la Concepción",
+    "nombre_corto": "El Silencio",
+    "cofradia_id": "el-silencio",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "01:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "01:15"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "01:22"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "01:55"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "02:21"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "03:20"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "06:05"
+      }
+    ],
+    "itinerario": [
+      "El Silencio",
+      "Alfonso XII",
+      "Plaza del Duque de la Victoria",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Villegas",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Plaza Fernando de Herrera",
+      "Daoiz",
+      "García Tassara",
+      "Amor de Dios",
+      "San Miguel",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "Alfonso XII",
+      "El Silencio"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Madrugada)",
+    "day_id": "madrugada",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad de Nuestro Padre Jesús del Gran Poder y María Santísima del Mayor Dolor y Traspaso",
+    "nombre_corto": "El Gran Poder",
+    "cofradia_id": "el-gran-poder",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "01:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "01:55"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "02:02"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "02:35"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "03:01"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "04:29"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "08:00"
+      }
+    ],
+    "itinerario": [
+      "Plaza de San Lorenzo",
+      "Conde de Barajas",
+      "Jesús del Gran Poder",
+      "Plaza del Duque de la Victoria (lado oeste)",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Adriano",
+      "López de Arenas",
+      "Santas Patronas",
+      "Puerta de Triana",
+      "Gravina",
+      "Pedro del Toro",
+      "Bailén",
+      "Miguel de Carvajal",
+      "Plaza del Museo (lado oeste)",
+      "San Vicente",
+      "Cardenal Cisneros",
+      "Jesús de la Vera-Cruz",
+      "Baños",
+      "Plaza de la Gavidia",
+      "Cardenal Spínola",
+      "Plaza de San Lorenzo"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Madrugada)",
+    "day_id": "madrugada",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad Sacramental del Stmo. Cristo de la Tres Caídas y Nuestra Señora de la Esperanza",
+    "nombre_corto": "Esperanza de Triana",
+    "cofradia_id": "esperanza-de-triana",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "01:35"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "05:17"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "05:24"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "05:57"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "06:23"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "08:03"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "14:00"
+      }
+    ],
+    "itinerario": [
+      "Pureza",
+      "Plaza del Altozano",
+      "Puente de Isabel II",
+      "Reyes Católicos",
+      "Puerta de Triana",
+      "Zaragoza",
+      "Madrid",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Adriano",
+      "Pastor y Landero",
+      "Reyes Católicos",
+      "Puente de Isabel II",
+      "Plaza del Altozano",
+      "San Jacinto",
+      "Pagés del Corro",
+      "Luca de Tena",
+      "Calle Santísimo Cristo de las Tres Caídas",
+      "Pelay Correa",
+      "Párroco Don Eugenio",
+      "Pureza"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Madrugada)",
+    "day_id": "madrugada",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad Sacramental de Nuestro Padre Jesús de la Salud y María Santísima de las Angustias",
+    "nombre_corto": "Los Gitanos",
+    "cofradia_id": "los-gitanos",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "02:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "06:38"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "06:45"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "07:18"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "07:44"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "09:11"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "13:45"
+      }
+    ],
+    "itinerario": [
+      "Plaza Señor de la Salud",
+      "Valle",
+      "Puerta del Osario",
+      "Matahacas",
+      "Plaza de San Román",
+      "Peñuelas",
+      "Doña María Coronel",
+      "Dueñas",
+      "Santa Ángela de la Cruz",
+      "Alcázares",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos (lado oeste)",
+      "Almirante Apodaca",
+      "Juan de Mesa",
+      "Plaza Ponce de León",
+      "Escuelas Pías",
+      "Pinto",
+      "Valle",
+      "Plaza Señor de la Salud"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Madrugada)",
+    "day_id": "madrugada",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad del Stmo. Cristo del Calvario y Ntra. Sra. de la Presentación",
+    "nombre_corto": "El Calvario",
+    "cofradia_id": "el-calvario",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "04:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "04:49"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "04:56"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "05:29"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "05:55"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "06:42"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "08:00"
+      }
+    ],
+    "itinerario": [
+      "San Pablo",
+      "Murillo",
+      "Plaza de la Magdalena",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Plaza de Molviedro",
+      "Doña Guiomar",
+      "Zaragoza",
+      "San Pablo"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Tarde)",
+    "day_id": "viernes-santo",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad del Stmo. Cristo de la Expiración y Nuestra Madre y Señora del Patrocinio",
+    "nombre_corto": "El Cachorro",
+    "cofradia_id": "el-cachorro",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:45"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:10"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:17"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:50"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:16"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:53"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:35"
+      }
+    ],
+    "itinerario": [
+      "Castilla",
+      "Callao",
+      "San Jorge",
+      "Plaza del Altozano",
+      "Puente de Isabel II",
+      "Reyes Católicos",
+      "Puerta de Triana",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Adriano",
+      "Pastor y Landero",
+      "Reyes Católicos",
+      "Puente de Isabel II",
+      "Plaza del Altozano",
+      "San Jorge",
+      "Callao",
+      "Castilla"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Tarde)",
+    "day_id": "viernes-santo",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad del Santísimo Cristo de la Salud, María Stma. de la Luz en el Misterio de sus Tres Necesidades y Ntra. Señora del Mayor Dolor en su Soledad",
+    "nombre_corto": "La Carretería",
+    "cofradia_id": "la-carreteria",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "16:25"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:20"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:27"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:00"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:26"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:15"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "22:15"
+      }
+    ],
+    "itinerario": [
+      "Real de la Carretería",
+      "Toneleros",
+      "Antonia Díaz",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Gamazo",
+      "Joaquín Guichot",
+      "Barcelona",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Santo Tomás",
+      "Adolfo Rodríguez Jurado",
+      "Santander",
+      "Temprado",
+      "Dos de Mayo",
+      "Rodo",
+      "Real de la Carretería"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Tarde)",
+    "day_id": "viernes-santo",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad de la Santa Cruz en el Monte Calvario y Ntra. Señora de la Soledad",
+    "nombre_corto": "La Soledad de San Buenaventura",
+    "cofradia_id": "la-soledad-de-san-buenaventura",
+    "pasos": 1,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "17:50"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:50"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:57"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:30"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:56"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:35"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "22:45"
+      }
+    ],
+    "itinerario": [
+      "Carlos Cañal",
+      "Zaragoza",
+      "Madrid",
+      "Plaza Nueva",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Plaza de Molviedro",
+      "Doña Guiomar",
+      "Zaragoza",
+      "Carlos Cañal"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Tarde)",
+    "day_id": "viernes-santo",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad Sacramental de Ntro. Padre Jesús Nazareno y María Stma. de la O",
+    "nombre_corto": "La O",
+    "cofradia_id": "la-o",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "18:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "20:28"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "20:35"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "21:08"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "21:34"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "22:32"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:45"
+      }
+    ],
+    "itinerario": [
+      "Castilla",
+      "Callao",
+      "San Jorge",
+      "Plaza del Altozano",
+      "Puente de Isabel II",
+      "Reyes Católicos",
+      "Puerta de Triana",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Rioja",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Santo Tomás",
+      "Adolfo Rodríguez Jurado",
+      "Santander",
+      "Temprado",
+      "Dos de Mayo",
+      "Rodo",
+      "Real de la Carretería",
+      "Toneleros",
+      "Adriano",
+      "Pastor y Landero",
+      "Reyes Católicos",
+      "Puente de Isabel II",
+      "Plaza del Altozano",
+      "San Jorge",
+      "Callao",
+      "Castilla"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Tarde)",
+    "day_id": "viernes-santo",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad Sacramental de Nuestro Padre Jesús de las Tres Caídas y Nuestra Señora de Loreto",
+    "nombre_corto": "San Isidoro",
+    "cofradia_id": "san-isidoro",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "19:40"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:07"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:14"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "21:47"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:13"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:06"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:15"
+      }
+    ],
+    "itinerario": [
+      "Luchana",
+      "Cuesta del Rosario",
+      "Villegas",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Tarifa",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Luchana"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Tarde)",
+    "day_id": "viernes-santo",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad de Nuestro Padre Jesús Descendido de la Cruz en el Misterio de su Sagrada Mortaja y María Santísima de la Piedad",
+    "nombre_corto": "La Mortaja",
+    "cofradia_id": "la-mortaja",
+    "pasos": 1,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:00"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "22:15"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "22:22"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:55"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "23:21"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "00:00"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:00"
+      }
+    ],
+    "itinerario": [
+      "Bustos Tavera",
+      "Doña María Coronel",
+      "Dueñas",
+      "San Juan de la Palma",
+      "Madre María Purísima de la Cruz",
+      "Feria",
+      "Castellar",
+      "Alberto Lista",
+      "Saavedras",
+      "Plaza de San Martín",
+      "Cervantes",
+      "San Andrés",
+      "García Tassara",
+      "Amor de Dios",
+      "San Miguel",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos",
+      "Doña María Coronel",
+      "Bustos Tavera"
+    ]
+  },
+  {
+    "dia": "Viernes Santo (Tarde)",
+    "day_id": "viernes-santo",
+    "fecha": "2025-04-18",
+    "cofradia": "Hermandad del Santísimo Cristo de la Conversión del Buen Ladrón y Ntra. Sra. de Montserrat",
+    "nombre_corto": "Montserrat",
+    "cofradia_id": "monserrat",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "20:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "21:41"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "21:48"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "22:21"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "22:47"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "23:40"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "02:30"
+      }
+    ],
+    "itinerario": [
+      "Cristo del Calvario",
+      "San Pablo",
+      "Plaza de la Magdalena",
+      "Rioja",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lado de la Catedral)",
+      "Fray Ceferino González",
+      "Almirantazgo",
+      "Arco del Postigo",
+      "Dos de Mayo",
+      "Arfe",
+      "Puerta del Arenal",
+      "Castelar",
+      "Plaza de Molviedro",
+      "Doña Guiomar",
+      "Zaragoza",
+      "San Pablo",
+      "Cristo del Calvario"
+    ]
+  },
+  {
+    "dia": "Sábado Santo",
+    "day_id": "sabado-santo",
+    "fecha": "2025-04-19",
+    "cofradia": "Hermandad Sacramental del Santo Cristo Varón de Dolores y Nuestra Señora del Sol",
+    "nombre_corto": "El Sol",
+    "cofradia_id": "el-sol",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "12:45"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:15"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:22"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "17:55"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:21"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:00"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "22:45"
+      }
+    ],
+    "itinerario": [
+      "Plaza del Aljarafe",
+      "Virgen del Sol",
+      "Avenida Ramón y Cajal",
+      "Enramadilla",
+      "Glorieta Doña María de las Mercedes de Borbón y Orleans",
+      "Avenida Carlos V",
+      "Plaza Don Juan de Austria",
+      "Jardines de Murillo (paseo de Catalina de Ribera)",
+      "Cano y Cueto",
+      "Santa María la Blanca",
+      "San José",
+      "Plaza Ntro. Padre Jesús de la Salud",
+      "Plaza Ramón Ybarra Llosent",
+      "Muñoz y Pabón",
+      "Cabeza del Rey Don Pedro",
+      "Candilejo",
+      "Calle Alfalfa",
+      "Jesús de las Tres Caídas",
+      "Cuesta del Rosario",
+      "Villegas",
+      "Plaza del Salvador",
+      "Sagasta",
+      "Jovellanos",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "CARRERA OFICIAL",
+      "Plaza del Triunfo (lados Casa de la Provincia y muralla del Alcázar)",
+      "Miguel Mañara",
+      "Plaza de la Contratación",
+      "San Gregorio",
+      "Plaza Puerta de Jerez",
+      "San Fernando",
+      "Plaza Don Juan de Austria",
+      "Avenida Carlos V",
+      "Glorieta Doña María de las Mercedes de Borbón y Orleans",
+      "Enramadilla",
+      "Avión Cuatro Vientos",
+      "Virgen del Sol",
+      "Plaza del Aljarafe"
+    ]
+  },
+  {
+    "dia": "Sábado Santo",
+    "day_id": "sabado-santo",
+    "fecha": "2025-04-19",
+    "cofradia": "Hermandad Servita de Ntra. Sra. de los Dolores, Stmo. Cristo de la Providencia y María Stma. de la Soledad",
+    "nombre_corto": "Los Servitas",
+    "cofradia_id": "los-servitas",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:20"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "17:35"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "17:42"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:15"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "18:41"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "19:32"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "22:40"
+      }
+    ],
+    "itinerario": [
+      "Siete Dolores de Nuestra Señora",
+      "Plaza de San Marcos",
+      "Bustos Tavera",
+      "Doña María Coronel",
+      "Dueñas",
+      "Santa Ángela de la Cruz",
+      "Alcázares",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos",
+      "Doña María Coronel",
+      "Bustos Tavera",
+      "Plaza de San Marcos",
+      "Vergara",
+      "Plaza de Santa Isabel",
+      "Siete Dolores de Nuestra Señora"
+    ]
+  },
+  {
+    "dia": "Sábado Santo",
+    "day_id": "sabado-santo",
+    "fecha": "2025-04-19",
+    "cofradia": "Hermandad Sacramental del Sagrado Decreto de la Santísima Trinidad, Stmo. Cristo de la Cinco Llagas, María Santísima de la Concepción y Ntra. Señora de la Esperanza",
+    "nombre_corto": "La Trinidad",
+    "cofradia_id": "la-trinidad",
+    "pasos": 3,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "15:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "18:07"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "18:14"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "18:47"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "19:13"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "20:27"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "01:30"
+      }
+    ],
+    "itinerario": [
+      "Compás de la Basílica",
+      "María Auxiliadora",
+      "Mateos",
+      "Valle",
+      "Jáuregui",
+      "Plaza Padre Jerónimo de Córdoba",
+      "Plaza Ponce de León",
+      "Juan de Mesa",
+      "Almirante Apodaca",
+      "Plaza de San Pedro",
+      "Imagen",
+      "Plaza de la Encarnación",
+      "Laraña",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Plaza de San Ildefonso",
+      "Zamudio",
+      "Plaza de San Leandro",
+      "Francisco Carrión Mejías",
+      "Juan de Mesa",
+      "Plaza Ponce de León",
+      "Plaza Padre Jerónimo de Córdoba",
+      "Jáuregui",
+      "Valle",
+      "Verónica",
+      "Cristo de las Cinco Llagas",
+      "Sol",
+      "Madre Isabel de la Trinidad",
+      "María Auxiliadora",
+      "Compás de la Basílica"
+    ]
+  },
+  {
+    "dia": "Sábado Santo",
+    "day_id": "sabado-santo",
+    "fecha": "2025-04-19",
+    "cofradia": "Hermandad Sacramental del Santo Entierro de Ntro. Señor Jesucristo, Triunfo de la Santa Cruz y María Stma. de Villaviciosa",
+    "nombre_corto": "Santo Entierro",
+    "cofradia_id": "santo-entierro",
+    "pasos": 3,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "18:45"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:02"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:09"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "19:42"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:08"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:12"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "23:00"
+      }
+    ],
+    "itinerario": [
+      "Alfonso XII",
+      "Plaza del Duque de la Victoria",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Hernando Colón",
+      "Plaza de San Francisco",
+      "Plaza Nueva (andén del Ayuntamiento)",
+      "Tetuán",
+      "Velázquez",
+      "O’Donnell",
+      "Campana",
+      "Plaza del Duque de la Victoria",
+      "Alfonso XII"
+    ]
+  },
+  {
+    "dia": "Sábado Santo",
+    "day_id": "sabado-santo",
+    "fecha": "2025-04-19",
+    "cofradia": "Hermandad Sacramental de María Santísima en su Soledad",
+    "cofradia_id": "soledad-de-san-lorenzo",
+    "pasos": 1,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "18:50"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "19:47"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "19:54"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "20:27"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "20:53"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "21:55"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "00:15"
+      }
+    ],
+    "itinerario": [
+      "Plaza de San Lorenzo",
+      "Conde de Barajas",
+      "Jesús del Gran Poder",
+      "San Miguel",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Chapineros",
+      "Álvarez Quintero",
+      "Plaza del Salvador",
+      "Cuna",
+      "Orfila",
+      "Javier Lasso de la Vega",
+      "Aponte",
+      "Jesús del Gran Poder",
+      "Las Cortes",
+      "Plaza de La Concordia",
+      "Plaza de la Gavidia (lado oeste)",
+      "Cardenal Spínola",
+      "Plaza de San Lorenzo"
+    ]
+  },
+  {
+    "dia": "Domingo de Resurrección",
+    "day_id": "domingo-de-resurreccion",
+    "fecha": "2025-04-20",
+    "cofradia": "Hermandad Sacramental de la Sagrada Resurrección de Ntro. Señor Jesucristo y Nuestra Señora de la Aurora",
+    "nombre_corto": "La Resurrección",
+    "cofradia_id": "la-resurreccion",
+    "pasos": 2,
+    "hitos": [
+      {
+        "nombre": "Salida del Templo",
+        "hora": "08:30"
+      },
+      {
+        "nombre": "Venia en Campana",
+        "hora": "11:00"
+      },
+      {
+        "nombre": "Entrada en Sierpes",
+        "hora": "11:07"
+      },
+      {
+        "nombre": "Cruz en la Plaza",
+        "hora": "11:40"
+      },
+      {
+        "nombre": "Puerta San Miguel",
+        "hora": "12:06"
+      },
+      {
+        "nombre": "Fuera de la Catedral",
+        "hora": "13:00"
+      },
+      {
+        "nombre": "Entrada Templo (Último paso)",
+        "hora": "16:30"
+      }
+    ],
+    "itinerario": [
+      "Plaza del Señor de la Resurrección",
+      "San Luis",
+      "Arrayán",
+      "Virgen del Carmen Dolorosa",
+      "Plaza del Cronista",
+      "San Blas",
+      "Infantes",
+      "Almirante Espinosa",
+      "Plaza de Monte Sión",
+      "Feria",
+      "Conde de Torrejón",
+      "Amor de Dios",
+      "Plaza Alameda de Hércules",
+      "Trajano",
+      "Plaza del Duque de la Victoria (lado este)",
+      "CARRERA OFICIAL",
+      "Cardenal Carlos Amigo",
+      "Alemanes",
+      "Álvarez Quintero",
+      "Argote de Molina",
+      "Placentines",
+      "Francos",
+      "Cuesta del Rosario",
+      "Jesús de las Tres Caídas",
+      "Odreros",
+      "Boteros",
+      "Sales y Ferré",
+      "Plaza del Cristo de Burgos (lado oeste)",
+      "Doña María Coronel",
+      "Bustos Tavera",
+      "Plaza de San Marcos",
+      "San Luis",
+      "Plaza del Señor de la Resurrección"
+    ]
+  }
+]

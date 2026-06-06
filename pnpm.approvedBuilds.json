@@ -1,0 +1,6 @@
+{
+  "esbuild": true,
+  "workerd": true,
+  "sharp": true,
+  "unrs-resolver": true
+}

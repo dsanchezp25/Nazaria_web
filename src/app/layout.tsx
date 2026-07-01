@@ -4,10 +4,39 @@ import SubscribeModal from "@/components/SubscribeModal";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nazaria",
+  metadataBase: new URL("https://nazaria.app"),
+  title: "Nazaria — App de Semana Santa de Sevilla",
   description:
-    "Descubre Nazaria, la app que te ayuda a planificar tu Semana Santa en Sevilla. Encuentra hermandades, crea rutas alternativas y consulta horarios en tiempo real.",
+    "Nazaria es la app gratuita para planificar tu Semana Santa en Sevilla. Consulta horarios de hermandades, crea rutas personalizadas y no te pierdas ninguna procesión.",
+  keywords: [
+    "Semana Santa Sevilla",
+    "app cofradías",
+    "recorridos hermandades",
+    "horarios procesiones",
+    "planificador Semana Santa",
+    "nazaria app",
+    "sevilla semana santa",
+  ],
   icons: { icon: "/logo_nazaria.png" },
+  robots: { index: true, follow: true },
+  alternates: { canonical: "https://nazaria.app" },
+  openGraph: {
+    title: "Nazaria — Tu app para la Semana Santa de Sevilla",
+    description:
+      "Planifica tu Semana Santa con Nazaria. Horarios de hermandades, rutas personalizadas y mucho más. Gratis para Android y iOS.",
+    url: "https://nazaria.app",
+    siteName: "Nazaria",
+    locale: "es_ES",
+    type: "website",
+    images: [{ url: "/logo_nazaria.png", width: 512, height: 512, alt: "Nazaria Logo" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Nazaria — App de Semana Santa de Sevilla",
+    description:
+      "Planifica tu Semana Santa con Nazaria. Horarios de hermandades, rutas personalizadas y mucho más. Gratis.",
+    images: ["/logo_nazaria.png"],
+  },
 };
 
 export const viewport: Viewport = {

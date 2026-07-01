@@ -18,7 +18,7 @@ export default function BackToTop() {
   return (
     <button
       onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-      className="fixed bottom-6 right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-accent-gold shadow-lg transition-all hover:scale-110 hover:shadow-xl animate-[fade-in_0.3s_ease-out] border-none cursor-pointer"
+      className="fixed bottom-6 right-6 z-50 flex h-12 w-12 items-center justify-center rounded-full bg-accent-gold shadow-lg transition-all duration-300 hover:scale-110 hover:shadow-xl hover:shadow-accent-gold/25 animate-[fade-in_0.3s_ease-out] border-none cursor-pointer"
       aria-label="Volver arriba"
     >
       <span className="material-symbols-outlined text-xl text-primary-dark">arrow_upward</span>

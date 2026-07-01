@@ -27,16 +27,16 @@ export default function Steps() {
           <ScrollReveal key={item.step} direction="scale" delay={i * 150}>
             <div className="group relative flex flex-col items-center text-center">
               {i < 3 && (
-                <div className="absolute left-[calc(50%+50px)] top-10 hidden h-[2px] w-[calc(100%-100px)] bg-accent-gold/15 md:block">
-                  <div className="h-full w-0 bg-accent-gold transition-all duration-1000 group-hover:w-full" />
+                <div className="absolute left-[calc(50%+50px)] top-10 hidden h-[2px] w-[calc(100%-100px)] bg-gradient-to-r from-accent-gold/15 to-transparent md:block">
+                  <div className="h-full w-0 bg-accent-gold transition-all duration-700 group-hover:w-full" />
                 </div>
               )}
 
-              <div className="relative z-10 flex h-20 w-20 items-center justify-center rounded-2xl bg-accent-gold text-2xl font-bold text-primary-dark shadow-card transition-all duration-300 group-hover:scale-110 group-hover:rounded-full group-hover:shadow-card-hover">
+              <div className="relative z-10 flex h-20 w-20 items-center justify-center rounded-2xl bg-accent-gold text-2xl font-bold text-primary-dark shadow-md transition-all duration-500 group-hover:scale-110 group-hover:rounded-full group-hover:shadow-lg group-hover:shadow-accent-gold/20">
                 {item.step}
               </div>
 
-              <div className="mt-8 flex h-20 w-20 items-center justify-center rounded-full bg-accent-gold/10 transition-all duration-300 group-hover:shadow-card-hover">
+              <div className="mt-8 flex h-20 w-20 items-center justify-center rounded-full bg-accent-gold/10 transition-all duration-500 group-hover:scale-110 group-hover:bg-accent-gold/15 group-hover:shadow-lg">
                 <span className="material-symbols-outlined text-4xl text-accent-gold">{item.icon}</span>
               </div>
 

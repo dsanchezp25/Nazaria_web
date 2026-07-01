@@ -11,7 +11,7 @@ export default function CTA() {
       <div className="mx-auto max-w-4xl text-center">
         <ScrollReveal>
           <h2 className="font-display text-4xl font-extrabold tracking-wide text-accent-gold md:text-5xl lg:text-6xl">
-            Próximamente en Android
+            Próximamente en Android y iOS
           </h2>
           <p className="mx-auto mt-6 max-w-3xl text-2xl text-white/70 md:text-3xl">
             Sé el primero en saberlo. Nazaria llegará pronto para acompañarte en la Semana Santa de Sevilla.
@@ -30,6 +30,16 @@ export default function CTA() {
             <p className="text-lg text-white/40">
               Sin spam. Solo te avisamos del lanzamiento.
             </p>
+            <div className="mt-2 flex items-center gap-5 text-white/25">
+              <span className="inline-flex items-center gap-1.5 text-sm">
+                <span className="material-symbols-outlined text-base">android</span>
+                Google Play
+              </span>
+              <span className="inline-flex items-center gap-1.5 text-sm">
+                <span className="material-symbols-outlined text-base">ios</span>
+                App Store
+              </span>
+            </div>
           </div>
         </ScrollReveal>
       </div>

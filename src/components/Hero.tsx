@@ -30,7 +30,7 @@ export default function Hero() {
         delay={200}
         className="z-10 mt-14 flex max-w-3xl flex-col items-center text-center md:order-2 md:items-start md:text-left"
       >
-        <div className="mb-4 inline-flex items-center gap-2.5 rounded-full bg-primary-light/40 px-6 py-2.5 backdrop-blur-sm">
+        <div className="mb-4 inline-flex items-center gap-2.5 rounded-full bg-primary-light/40 px-5 py-2 backdrop-blur-sm sm:px-6 sm:py-2.5">
           <span
             className="h-3 w-3 rounded-full bg-accent-gold"
             style={{ animation: "pulse-dot 2s ease-in-out infinite" }}

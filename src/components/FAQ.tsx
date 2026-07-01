@@ -55,13 +55,13 @@ export default function FAQ() {
                 <div className="flex items-center justify-between gap-4">
                   <span className="text-lg font-bold text-white md:text-xl">{faq.q}</span>
                   <span
-                    className={`material-symbols-outlined shrink-0 text-2xl text-accent-gold transition-transform duration-300 ${isOpen ? "rotate-180" : ""}`}
+                    className={`material-symbols-outlined shrink-0 text-2xl text-accent-gold transition-transform duration-500 ${isOpen ? "rotate-180" : ""}`}
                   >
                     expand_more
                   </span>
                 </div>
                 <div
-                  className={`grid transition-all duration-300 ease-in-out ${
+                  className={`grid transition-all duration-500 ease-in-out ${
                     isOpen ? "grid-rows-[1fr] opacity-100 mt-4" : "grid-rows-[0fr] opacity-0"
                   }`}
                 >

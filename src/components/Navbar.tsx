@@ -35,12 +35,6 @@ export default function Navbar() {
           >
             Funcionalidades
           </Link>
-          <Link
-            href="#zonas"
-            className="text-lg font-medium text-white/75 transition-colors hover:text-accent-gold"
-          >
-            Zonas
-          </Link>
           <button
             onClick={openModal}
             className="inline-flex items-center gap-2 rounded-lg bg-accent-gold px-6 py-3 text-lg font-semibold text-primary-dark transition-colors hover:bg-accent-gold/80 border-none cursor-pointer"
@@ -95,14 +89,6 @@ export default function Navbar() {
               >
                 <span className="material-symbols-outlined text-xl">bolt</span>
                 Funcionalidades
-              </a>
-              <a
-                href="#zonas"
-                onClick={(e) => handleLinkClick(e, "#zonas")}
-                className="flex items-center gap-3 rounded-xl px-4 py-3.5 text-lg font-medium text-white/75 transition-colors hover:bg-white/5 hover:text-accent-gold"
-              >
-                <span className="material-symbols-outlined text-xl">explore</span>
-                Zonas
               </a>
               <button
                 onClick={() => { setMenuOpen(false); openModal(); }}

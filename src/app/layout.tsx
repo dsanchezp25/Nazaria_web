@@ -4,10 +4,10 @@ import SubscribeModal from "@/components/SubscribeModal";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nazaria — Tu acompañante para la Semana Santa de Sevilla",
+  title: "Nazaria",
   description:
     "Descubre Nazaria, la app que te ayuda a planificar tu Semana Santa en Sevilla. Encuentra hermandades, crea rutas alternativas y consulta horarios en tiempo real.",
-  icons: { icon: "/favicon.svg" },
+  icons: { icon: "/logo_nazaria.png" },
 };
 
 export const viewport: Viewport = {

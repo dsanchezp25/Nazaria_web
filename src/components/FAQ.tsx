@@ -61,13 +61,11 @@ export default function FAQ() {
                   </span>
                 </div>
                 <div
-                  className={`grid transition-all duration-500 ease-in-out ${
-                    isOpen ? "grid-rows-[1fr] opacity-100 mt-4" : "grid-rows-[0fr] opacity-0"
+                  className={`overflow-hidden transition-all duration-300 ease-in-out ${
+                    isOpen ? "max-h-96 opacity-100 mt-4" : "max-h-0 opacity-0"
                   }`}
                 >
-                  <div className="overflow-hidden">
-                    <p className="text-base leading-relaxed text-white/60 md:text-lg">{faq.a}</p>
-                  </div>
+                  <p className="text-base leading-relaxed text-white/60 md:text-lg">{faq.a}</p>
                 </div>
               </button>
             </ScrollReveal>

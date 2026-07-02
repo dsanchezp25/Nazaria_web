@@ -21,14 +21,14 @@ export default function Hero() {
         />
       </div>
 
-      <ScrollReveal direction="left" className="z-10 mt-8 md:order-1 lg:scale-110">
+      <ScrollReveal direction="left" className="z-10 mt-8 md:order-1 order-2 lg:scale-110">
         <PhoneCarousel />
       </ScrollReveal>
 
       <ScrollReveal
         direction="right"
         delay={200}
-        className="z-10 mt-14 flex max-w-3xl flex-col items-center text-center md:order-2 md:items-start md:text-left"
+        className="z-10 mt-14 flex max-w-3xl flex-col items-center text-center order-1 md:order-2 md:items-start md:text-left"
       >
         <div className="mb-4 inline-flex items-center gap-2.5 rounded-full bg-primary-light/40 px-5 py-2 backdrop-blur-sm sm:px-6 sm:py-2.5">
           <span

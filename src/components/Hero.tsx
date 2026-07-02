@@ -9,7 +9,7 @@ export default function Hero() {
   const { openModal } = useSubscribe();
 
   return (
-    <section className="relative flex min-h-[92vh] flex-col items-center justify-center overflow-hidden bg-background px-4 py-16 sm:px-6 md:flex-row md:gap-24 md:px-16 lg:gap-36 xl:gap-44">
+    <section className="relative flex min-h-[92vh] flex-col items-center justify-center overflow-hidden bg-background px-4 pt-12 pb-16 sm:px-6 md:flex-row md:gap-24 md:px-16 md:pt-24 lg:gap-36 xl:gap-44">
       <div className="pointer-events-none absolute inset-0 overflow-hidden">
         <div
           className="absolute -left-40 -top-40 h-[800px] w-[800px] rounded-full bg-primary-light/30 blur-3xl"

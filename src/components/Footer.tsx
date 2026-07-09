@@ -66,7 +66,7 @@ export default function Footer() {
 
         <ScrollReveal delay={450}>
           <p className="mt-18 text-base text-white/25">
-            &copy; {year} Nazaria. Todos los derechos reservados. Hecho en Sevilla.
+            &copy; {year} Nazaria. Todos los derechos reservados.
           </p>
         </ScrollReveal>
       </div>

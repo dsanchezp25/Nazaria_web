@@ -136,6 +136,10 @@ const screens = [
             { name: "La Hiniesta", cofradia: "Hermandad de la Hiniesta", pasos: 2, color: "#4CAF50" },
             { name: "La Cena", cofradia: "Hermandad de la Cena", pasos: 3, color: "#FF9800" },
             { name: "El Amor", cofradia: "Hermandad de El Amor", pasos: 2, color: "#9E9E9E" },
+            { name: "La Estrella", cofradia: "Hermandad de la Estrella", pasos: 2, color: "#FF9800" },
+            { name: "La Amargura", cofradia: "Hermandad de La Amargura", pasos: 2, color: "#4CAF50" },
+            { name: "Jesús Despojado", cofradia: "Hdad. de Jesús Despojado", pasos: 2, color: "#E91E63" },
+            { name: "El Baratillo", cofradia: "Hermandad de El Baratillo", pasos: 1, color: "#E91E63" },
           ].map((b, i) => (
             <div key={i} className="mb-2 rounded-2xl bg-[#E7E0EC] p-3 shadow-sm">
               <div className="flex items-center gap-2.5">

@@ -24,12 +24,6 @@ export default function Navbar() {
           >
             Funcionalidades
           </Link>
-          <Link
-            href="#zonas"
-            className="hidden text-lg font-medium text-white/75 transition-colors hover:text-accent-gold md:inline"
-          >
-            Zonas
-          </Link>
 
           {/* Mobile: solo icono de Funcionalidades */}
           <Link

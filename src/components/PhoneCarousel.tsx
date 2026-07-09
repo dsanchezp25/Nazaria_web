@@ -14,12 +14,12 @@ const screens = [
 
         <div className="flex-1 overflow-hidden px-4 pt-3">
           <div className="flex items-center gap-3">
-            <div className="flex h-[50px] w-[50px] shrink-0 items-center justify-center rounded-full border-2 border-[#45148A] bg-white">
-              <span className="material-symbols-outlined text-2xl text-[#45148A]">person</span>
+            <div className="flex h-[65px] w-[65px] shrink-0 items-center justify-center rounded-full border-2 border-[#45148A] bg-white">
+              <span className="material-symbols-outlined text-3xl text-[#45148A]">person</span>
             </div>
             <div>
-              <p className="text-[14px] font-bold text-[#1C1B1F]">Bienvenido</p>
-              <p className="text-[11px] text-[#49454E]">Tu guía interactiva para vivir la Semana Santa</p>
+              <p className="text-[17px] font-bold text-[#1C1B1F]">Bienvenido</p>
+              <p className="text-[13px] text-[#49454E]">Tu guía interactiva para vivir la Semana Santa</p>
             </div>
           </div>
 
@@ -83,29 +83,26 @@ const screens = [
 
         <div className="flex-1 overflow-hidden px-4 pt-3">
           {[
-            { day: "Domingo de Ramos", amount: 8, date: "13 Abr", color: "#45148A" },
-            { day: "Lunes Santo", amount: 7, date: "14 Abr", color: "#45148A" },
-            { day: "Martes Santo", amount: 8, date: "15 Abr", color: "#45148A" },
-            { day: "Miércoles Santo", amount: 7, date: "16 Abr", color: "#45148A" },
-            { day: "Jueves Santo", amount: 6, date: "17 Abr", color: "#45148A" },
-            { day: "La Madrugá", amount: 6, date: "17→18 Abr", color: "#5F2CA6" },
-            { day: "Viernes Santo", amount: 7, date: "18 Abr", color: "#45148A" },
-            { day: "Sábado Santo", amount: 5, date: "19 Abr", color: "#45148A" },
-            { day: "Domingo de Resurrección", amount: 4, date: "20 Abr", color: "#45148A" },
+            { day: "Domingo de Ramos", amount: 8, color: "#45148A" },
+            { day: "Lunes Santo", amount: 7, color: "#45148A" },
+            { day: "Martes Santo", amount: 8, color: "#45148A" },
+            { day: "Miércoles Santo", amount: 7, color: "#45148A" },
+            { day: "Jueves Santo", amount: 6, color: "#45148A" },
+            { day: "La Madrugá", amount: 6, color: "#5F2CA6" },
+            { day: "Viernes Santo", amount: 7, color: "#45148A" },
+            { day: "Sábado Santo", amount: 5, color: "#45148A" },
+            { day: "Domingo de Resurrección", amount: 4, color: "#45148A" },
           ].map((holyDay, i) => (
             <div
               key={i}
-              className="mb-2 flex items-center justify-between rounded-xl px-4 py-2.5"
+              className="mb-2 flex items-center justify-between rounded-xl px-4 py-3"
               style={{ backgroundColor: holyDay.color }}
             >
               <div>
-                <p className="text-[12px] font-bold text-white leading-snug">{holyDay.day}</p>
-                <p className="text-[10px] text-white/75">{holyDay.amount} hermandades</p>
+                <p className="text-[13px] font-bold text-white leading-snug">{holyDay.day}</p>
+                <p className="text-[11px] text-white/70">{holyDay.amount} hermandades</p>
               </div>
-              <div className="flex items-center gap-2">
-                <span className="text-[10px] text-white/60">{holyDay.date}</span>
-                <span className="material-symbols-outlined text-white" style={{ fontSize: 18 }}>chevron_right</span>
-              </div>
+              <span className="material-symbols-outlined text-white" style={{ fontSize: 20 }}>chevron_right</span>
             </div>
           ))}
         </div>
@@ -135,33 +132,27 @@ const screens = [
 
         <div className="flex-1 overflow-hidden px-4 pt-2">
           {[
-            { name: "La Paz", cofradia: "Hermandad de La Paz", color: "#E91E63" },
-            { name: "La Hiniesta", cofradia: "Hermandad de la Hiniesta", color: "#4CAF50" },
-            { name: "La Cena", cofradia: "Hermandad de la Cena", color: "#FF9800" },
-            { name: "El Amor", cofradia: "Hermandad de El Amor", color: "#9E9E9E" },
+            { name: "La Paz", cofradia: "Hermandad de La Paz", pasos: 2, color: "#E91E63" },
+            { name: "La Hiniesta", cofradia: "Hermandad de la Hiniesta", pasos: 2, color: "#4CAF50" },
+            { name: "La Cena", cofradia: "Hermandad de la Cena", pasos: 3, color: "#FF9800" },
+            { name: "El Amor", cofradia: "Hermandad de El Amor", pasos: 2, color: "#9E9E9E" },
           ].map((b, i) => (
             <div key={i} className="mb-2 rounded-2xl bg-[#E7E0EC] p-3 shadow-sm">
-              <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2.5">
                 <div
-                  className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full"
+                  className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full"
                   style={{ backgroundColor: b.color + "18" }}
                 >
                   <span className="material-symbols-outlined text-lg" style={{ color: b.color }}>church</span>
                 </div>
                 <div className="min-w-0 flex-1">
-                  <p className="truncate text-[11px] font-bold text-[#1C1B1F]">{b.name}</p>
-                  <p className="truncate text-[9px] text-[#49454E]">{b.cofradia}</p>
+                  <p className="truncate text-[12px] font-bold text-[#1C1B1F]">{b.name}</p>
+                  <p className="truncate text-[10px] text-[#49454E]">{b.cofradia} · {b.pasos} pasos</p>
+                </div>
+                <div className="flex h-5 w-5 shrink-0 items-center justify-center rounded border-2 border-[#45148A] bg-white">
+                  {i === 0 && <div className="h-2.5 w-2.5 rounded-sm bg-[#45148A]" />}
                 </div>
               </div>
-              <div className="my-2 h-px bg-[#45148A]/15" />
-              {["Paso misterio", "Paso de palio"].map((paso, j) => (
-                <div key={j} className="flex items-center gap-2 py-0.5">
-                  <div className="flex h-5 w-5 shrink-0 items-center justify-center rounded border-2 border-[#45148A] bg-white">
-                    {j === 0 && <div className="h-2.5 w-2.5 rounded-sm bg-[#45148A]" />}
-                  </div>
-                  <span className="text-[10px] text-[#1C1B1F]">{paso}</span>
-                </div>
-              ))}
             </div>
           ))}
         </div>
